@@ -1,0 +1,5 @@
+Model,Test Accuracy
+Deep + Dropout,0.9016
+"Wider (1024,512,256)",0.9002
+Shallow (256),0.8977
+"Deep (512,256)",0.8967
